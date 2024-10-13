@@ -5,5 +5,6 @@ HTML elements-->standard elements that browser recognizses.
 paragraph,heading,image.
 The components used to design the structure of websites are called HTML tags.
 <p> tags for paragraph </p>
+the first one is the opening tags and the last ones are closing tags and the content written in the middle of the tags is called content.
 <h1> heading tags</h1>
-
+<b> bold tags</b>
